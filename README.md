@@ -9,7 +9,7 @@ This the official Golang SDk for Addispay Payment Gateway
 ##### 1. Installation
 
 ```
-    go get github.com/Yinebeb-01/Addispay-go
+    go get github.com/AddisPay/addispay-golang-sdk
 ```
 
 ###### API_KEY
@@ -89,7 +89,7 @@ If you want to run the githb action on your forked repository, you have to creat
 
 ### Resources
 
-- <https://developer.Addispay.co/docs/overview/>
+- <https://developer.Addispay.et/docs/overview/>
 
 ### Quirks
 
@@ -109,8 +109,3 @@ e.g
     5002: RejectedByGateway
 ```
 
-Just an example!
-
-### Contributions
-
-- Highly welcome
