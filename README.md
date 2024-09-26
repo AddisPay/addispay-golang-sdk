@@ -1,7 +1,5 @@
 # Addispay-Go
 
-![build-workflow](https://github.com/Yinebeb-01/Addispay-go/actions/workflows/test.yml/badge.svg)
-
 This the official Golang SDk for Addispay Payment Gateway
 
 ### Usage
